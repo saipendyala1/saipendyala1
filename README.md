@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Saiteja Pendyala.
-- 👀 I’m interested in learning and building interesting tech projects.
+- 👀 I’m passionate in learning and building interesting tech projects.
 - 🌱 I’m currently learning MERN Full stack development.
 - 📫 You can write me. My email: saitejapendyala.me@gmail.com
